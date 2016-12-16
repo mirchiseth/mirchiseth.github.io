@@ -9,6 +9,22 @@
     <atom:link href="http://ms.pnarula.com/categories/%E0%A4%90%E0%A4%B8%E0%A5%87-%E0%A4%B9%E0%A5%80/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>मिर्ची सेठ अब ह्यूगो व गिटहब पर</title>
+      <link>http://ms.pnarula.com/2016/%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%80-%E0%A4%B8%E0%A5%87%E0%A4%A0-%E0%A4%85%E0%A4%AC-%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%97%E0%A5%8B-%E0%A4%B5-%E0%A4%97%E0%A4%BF%E0%A4%9F%E0%A4%B9%E0%A4%AC-%E0%A4%AA%E0%A4%B0/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://ms.pnarula.com/2016/%E0%A4%AE%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%9A%E0%A5%80-%E0%A4%B8%E0%A5%87%E0%A4%A0-%E0%A4%85%E0%A4%AC-%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%97%E0%A5%8B-%E0%A4%B5-%E0%A4%97%E0%A4%BF%E0%A4%9F%E0%A4%B9%E0%A4%AC-%E0%A4%AA%E0%A4%B0/</guid>
+      <description>&lt;p&gt;हिन्दी में लिॆखे बहुत दिन हो गए। अपने अंग्रेजी के चिट्ठे बीटा थॉट्स को उसकी नई होस्टिंग गिटहब मुफ्त वाली पर डालने के बाद सोचा की मिर्ची सेठ को भी बदला जाए। बात यह है कि अभी तक चिट्ठा बनाने के दो तरीके थे या तो wordpress.com या फिर blogspot.com जैसे वेबसाइट पर चिट्ठा बनाया जाए या फिर अपनी होस्टिंग ले कर उस पर वर्डप्रैस लगा कर बनाया जाए। पहला तरीका ज्यादा प्रसिद्ध है क्यूंकि एक तो मुफ्त में है दूसरा कुछ ज्यादा तकनीकी पंगे भी नहीं लेने पड़ते। अपनी होस्टिंग और वर्डप्रैस वाला तरीका कॉफी बढ़िया है लेकिन उसके लिए कुछ तकनीकी ज्ञान होना जरुरी है व होस्टिंग के पैसे भी लगते हैं।&lt;/p&gt;
+
+&lt;p&gt;पिछले कुछ दिनों पहले &lt;a href=&#34;https://pages.github.com/&#34;&gt;गिटहब पर होस्टिंग&lt;/a&gt; का पता चला। यहाँ आप गिटहब को एक html व javascript के ऑनलाइन संग्रह की तरह प्रयोग करते हो। इसे आप सामान्य होस्टिंग ही समझें। लेकिन आप केवल html, javascript ही चला सकते हैं php नहीं। यानि की गिटहब पर वर्डप्रैस नहीं चलाया जा सकता। तो आप अब चिट्ठा कैसे लिखेंगे। इस काम के लिए markdown नाम का फॉरमेट काम में आता है। पहले आप किसी भी एडिटर में markdown में अपनी पोस्ट लिखते हो। फिर इस सामान्य टेक्सट जैसे markdown को सुंदर चिट्ठे में बदलने के लिेए &lt;a href=&#34;https://gohugo.io&#34;&gt;ह्यूगो&lt;/a&gt; को प्रयोग करते हैं। यह सारा जुगाड़ काफी तकनीकी है। इसलिए अगर आप चिट्टा ही लिखना चाहते हैं व आपके मेरी तरह तकनीकी खुजली नहीं है तो आप wordpress या blogspot का ही प्रयोग करें।&lt;/p&gt;
+
+&lt;p&gt;markdown में लिखा चिट्ठा कैसे दिखता है के लिए नीचे दी गई छवि देखें&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://ms.pnarula.com/images/hindi-markdown-hugo.png&#34; alt=&#34;markdown&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>भवरों के कालेज का प्रोफेसर</title>
       <link>http://ms.pnarula.com/2012/%E0%A4%AD%E0%A4%B5%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%95%E0%A4%BE%E0%A4%B2%E0%A5%87%E0%A4%9C-%E0%A4%95%E0%A4%BE-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AB%E0%A5%87%E0%A4%B8%E0%A4%B0/</link>
       <pubDate>Sat, 11 Aug 2012 00:14:19 +0000</pubDate>
@@ -347,24 +363,6 @@ Strive to be happy.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://pnarula.com/images/ms/34b25eb265ec_CD03/safarionwindows2.png&#34; atomicselection=&#34;true&#34;&gt;&lt;img style=&#34;border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px&#34; height=&#34;327&#34; src=&#34;http://pnarula.com/images/ms/34b25eb265ec_CD03/safarionwindows_thumb.png&#34; width=&#34;481&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;मुझे विश्वास है कि हिन्दी&amp;nbsp;चिट्ठाकार इन नए&amp;nbsp;ब्राउजर को अच्छी तरह से परख कर अपनी अपनी रिपोर्ट भी देंगे।&amp;nbsp;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>क्या स्कूल हमारी क्रिएटिवटी मारते हैं</title>
-      <link>http://ms.pnarula.com/2007/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2-%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%8F%E0%A4%9F%E0%A4%BF%E0%A4%B5%E0%A4%9F%E0%A5%80-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%87-%E0%A4%B9%E0%A5%88%E0%A4%82/</link>
-      <pubDate>Wed, 06 Jun 2007 16:44:19 +0000</pubDate>
-      
-      <guid>http://ms.pnarula.com/2007/%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%82%E0%A4%B2-%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%8F%E0%A4%9F%E0%A4%BF%E0%A4%B5%E0%A4%9F%E0%A5%80-%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%87-%E0%A4%B9%E0%A5%88%E0%A4%82/</guid>
-      <description>&lt;p&gt;मानसी जी की एक प्रविष्टि पढ़ी &lt;a href=&#34;http://manoshichatterjee.blogspot.com/2007/06/blog-post_06.html&#34;&gt;मेरा बच्चा जानता है, पर अंक बुरे लाता है&amp;#8230;&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;जब मैं स्कूल में थी, मुझे हमेशा परीक्षा के अंकों से ही मापा गया। कभी किसी ने ये नहीं सोचा कि शायद मुझे लिखना अच्छा नहीं लगता हो। मुझे मालूम तो है इस प्रश्न का उत्तर मगर अगर कोई मुझसे इसे ज़ुबानी पूछ ले, तो मैं बेहतर बता पाऊंगी। मैंने कक्षा में इस विषय पर हमेशा बहुत अच्छा काम किया होगा, पर परीक्षा मेरे बस का नहीं&amp;#8230;कोई क्यों नहीं समझ पाता इस बात को?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;कुछ इन्हीं बातों पर प्रकाश डालता एक विडियो है श्री केन रोबिनसन का। विडियो देखने के बाद मैं उनके बोलने की शैली, व चिकाई का फैन हो गया। वे भी एक बच्ची का उदाहरण देते हैं। यदि आप के पास 20 मिनट हैं तो यह विडियो जरूर देखें&lt;/p&gt;
-
-&lt;p&gt;[ev type=&amp;ldquo;youtube&amp;rdquo; data=&amp;ldquo;iG9CE55wbtY&amp;rdquo;][/ev]&lt;/p&gt;
 </description>
     </item>
     
